@@ -11,23 +11,19 @@
 ## Perma Proto Cases and Holders
 
 ### Case: Full Size Perma Proto
-**Files**
-- FullSizefromACESUniversal.f3d
+**File: FullSizefromACESUniversal.f3d**
 ![Full Size Perma Proto](images/PPFullSizeCase.png)
 
 ### Case: Half Size Perma Proto
-**Files**
-- HalfSizefromACESUniversal.f3d
+**File: HalfSizefromACESUniversal.f3d**
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
 ### Case: Half Size Perma Proto Mint Tin
-**Files**
-- ACESMintTinPCBCase.f3d
+**File: ACESMintTinPCBCase.f3d**
 ![Half Size Perma Proto](images/MintTinPCBandCase.png)
 
 ### Holder: Half Size Perma Proto (Insets)
-**Files**
-- .f3d
+**File: .f3d**
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsets.png)
 
 ### Holder: Half Size Perma Proto (Nut Pockets)
@@ -51,14 +47,13 @@
 
 # Grade 10
 ## LED Tester
-Files
-- MyLEDTesterCase/MyLEDTesterCase.f3d
-- MyLEDTesterCase/MyLEDTesterCase.stl
+**File: MyLEDTesterCase/MyLEDTesterCase.f3d**
 ![LED Tester](images/LEDTester.png)
 
 ## Universal Grade 10 Case
-![Universal Grade 10 Case](images/UniversalGrade10Case.png)
+**File: AnalogOscillatorCasePLasticPowerJackFinal.f3d**
+![Universal Grade 10 Case](images/AnalogOscillatorCase.png)
 
 ## Grade 10 Counting Circuit Case
 **File: ICD2OCountingCircuitCase.f3d**
-![Counting Circuit Case](images/CountingCircuitCase.png)
+![Counting Circuit Case](images/UniversalGrade10Case.png)
