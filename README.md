@@ -2,6 +2,10 @@
  Partial Archive of ACES Fusion 360 Project Design Files
 
 # Universal Parametric Case
+Files
+- ACESUniversalCase/ACESUniversalParametricCase.f3d
+- ACESUniversalCase/ACESUniversalParametricCaseParamtersCase.f3d
+
 ![Universal Parametric Case](images/ACESUniversalCase.png)
 
 # Grade 11
