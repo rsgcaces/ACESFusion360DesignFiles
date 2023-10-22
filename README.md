@@ -23,7 +23,7 @@
 ![Half Size Perma Proto](images/MintTinPCBandCase.png)
 
 ### Holder: Half Size Perma Proto (Insets)
-**File: .f3d**
+**File: HalfSizeHolderforDESPrinting.f3d**
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsets.png)
 
 ### Holder: Half Size Perma Proto (Nut Pockets)
@@ -42,6 +42,7 @@
 
 # Grade 12
 ## Dolgin Development Case
+**File: DDBCaseSA23.f3d**
 ![LED Tester](images/DolginDevelopmentCase.png)
 
 
