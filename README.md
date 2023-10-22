@@ -10,6 +10,9 @@
 ### Case: Half Size Perma Proto
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
+### Case: Half Size Perma Proto Mint Tin
+![Half Size Perma Proto](images/MintTinPCBandCase.png)
+
 ### Holder: Half Size Perma Proto (Insets)
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsets.png)
 
@@ -18,6 +21,8 @@
 
 ### Holder: Half Size Perma Proto (Thingiverse)
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
+
+
 
 ## Bargraph Holders
 ![Bargraph Holders](images/BargraphHolders.png)
