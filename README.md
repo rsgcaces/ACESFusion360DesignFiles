@@ -17,3 +17,6 @@
 
 ### Holder: Half Size Perma Proto (Thingiverse)
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
+
+## Bargraph Holders
+![Bargraph Holders](images/PPHalfSizeHolderInsetsThingiverse.png)
