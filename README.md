@@ -45,7 +45,6 @@
 **File: DDBCaseSA23.f3d**
 ![LED Tester](images/DolginDevelopmentCase.png)
 
-
 # Grade 10
 ## LED Tester
 **File: MyLEDTesterCase/MyLEDTesterCase.f3d**
