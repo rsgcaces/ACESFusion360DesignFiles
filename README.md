@@ -25,4 +25,4 @@
 ![LED Tester](images/LEDTester.png)
 
 ## Grade 10 Counting Circuit Case
-![Counting Circuit Case](images/ICD2OCountingCircuitCase.png)
+![Counting Circuit Case](images/CountingCircuitCase.png)
