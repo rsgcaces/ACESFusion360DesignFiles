@@ -28,9 +28,12 @@ Files
 ### Holder: Half Size Perma Proto (Thingiverse)
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
 
-
-
 ## Bargraph Holders
+Files
+- BargraphHolders/BargraphHolder Updted 12 pin.f3d
+- BargraphHolders/BargraphHolder Updted 12 pin.stl
+- BargraphHolders/BargraphHolder Updted 8 pin.f3d
+- BargraphHolders/BargraphHolder Updted 8 pin.stl
 ![Bargraph Holders](images/BargraphHolders.png)
 
 # Grade 12
