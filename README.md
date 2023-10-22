@@ -1,5 +1,5 @@
 # ACESFusion360DesignFiles
- Partial Archive of ACES Fusion 360 Project Design Files
+**Partial Archive of ACES Fusion 360 Project Design Files**
 
 # Universal Parametric Case
 **Files**
@@ -56,4 +56,4 @@
 
 ## Grade 10 Counting Circuit Case
 **File: ICD2OCountingCircuitCase.f3d**
-![Counting Circuit Case](images/UniversalGrade10Case.png)
+![Counting Circuit Case](images/CountingCircuitCase.png)
