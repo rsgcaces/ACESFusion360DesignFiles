@@ -2,7 +2,7 @@
  Partial Archive of ACES Fusion 360 Project Design Files
 
 # Universal Parametric Case
-Files
+**Files**
 - ACESUniversalCase/ACESUniversalParametricCase.f3d
 - ACESUniversalCase/ACESUniversalParametricCaseParamtersCase.csv
 ![Universal Parametric Case](images/ACESUniversalCase.png)
@@ -11,12 +11,18 @@ Files
 ## Perma Proto Cases and Holders
 
 ### Case: Full Size Perma Proto
+**Files**
+- FullSizefromACESUniversal.f3d
 ![Full Size Perma Proto](images/PPFullSizeCase.png)
 
 ### Case: Half Size Perma Proto
+**Files**
+- HalfSizefromACESUniversal.f3d
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
 ### Case: Half Size Perma Proto Mint Tin
+**Files**
+- ACESMintTinPCBCase.f3d
 ![Half Size Perma Proto](images/MintTinPCBandCase.png)
 
 ### Holder: Half Size Perma Proto (Insets)
