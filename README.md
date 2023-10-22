@@ -4,8 +4,7 @@
 # Universal Parametric Case
 Files
 - ACESUniversalCase/ACESUniversalParametricCase.f3d
-- ACESUniversalCase/ACESUniversalParametricCaseParamtersCase.f3d
-
+- ACESUniversalCase/ACESUniversalParametricCaseParamtersCase.csv
 ![Universal Parametric Case](images/ACESUniversalCase.png)
 
 # Grade 11
@@ -41,6 +40,9 @@ Files
 
 # Grade 10
 ## LED Tester
+Files
+- MyLEDTesterCase/MyLEDTesterCase.f3d
+- MyLEDTesterCase/MyLEDTesterCase.stl
 ![LED Tester](images/LEDTester.png)
 
 ## Universal Grade 10 Case
