@@ -19,4 +19,4 @@
 
 ## Holder: Half Size Perma Proto (Thingiverse)
 
-![Half Size Perma Proto](images/PPHalfSizeHolderThingiverse.png)
+![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
