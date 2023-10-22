@@ -60,4 +60,5 @@ Files
 ![Universal Grade 10 Case](images/UniversalGrade10Case.png)
 
 ## Grade 10 Counting Circuit Case
+**File: ICD2OCountingCircuitCase.f3d**
 ![Counting Circuit Case](images/CountingCircuitCase.png)
