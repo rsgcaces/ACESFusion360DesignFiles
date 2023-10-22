@@ -51,8 +51,8 @@
 ![LED Tester](images/LEDTester.png)
 
 ## Universal Grade 10 Case
-**File: AnalogOscillatorCasePLasticPowerJackFinal.f3d**
-![Universal Grade 10 Case](images/AnalogOscillatorCase.png)
+**File: AnalogOscillatorCasePlasticPowerJackFinal.f3d**
+![Universal Grade 10 Case](images/UniversalGrade10Case.png)
 
 ## Grade 10 Counting Circuit Case
 **File: ICD2OCountingCircuitCase.f3d**
