@@ -26,6 +26,8 @@
 ![Half Size Perma Proto](images/MintTinPCBandCase.png)
 
 ### Holder: Half Size Perma Proto (Insets)
+**Files**
+- .f3d
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsets.png)
 
 ### Holder: Half Size Perma Proto (Nut Pockets)
