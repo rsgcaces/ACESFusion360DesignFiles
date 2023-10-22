@@ -9,3 +9,14 @@
 
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
+## Holder: Half Size Perma Proto (Insets)
+
+![Half Size Perma Proto](images/PPHalfSizeHolderInsets.png)
+
+## Holder: Half Size Perma Proto (Nut Pockets)
+
+![Half Size Perma Proto](images/PPHalfSizeHolderNutPockets.png)
+
+## Holder: Half Size Perma Proto (Thingiverse)
+
+![Half Size Perma Proto](images/PPHalfSizeHolderThingiverse.png)
