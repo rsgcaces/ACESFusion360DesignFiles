@@ -27,7 +27,7 @@
 ![Half Size Perma Proto](images/MintTinPCBandCase.png)
 
 ### Holder: Perma Proto (Thingiverse Variants)
-![Perma Proto Holder Photo](images/PermaProtoHolders.jpg)
+![Perma Proto Holder Photo](images/PermaProtoHolders.png)
 
 ### Holder: Half Size Perma Proto (Thingiverse)
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
