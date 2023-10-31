@@ -26,6 +26,12 @@
 **File: ACESMintTinPCBCase.f3d**
 ![Half Size Perma Proto](images/MintTinPCBandCase.png)
 
+### Holder: Perma Proto (Thingiverse Variants)
+![Perma Proto Holder Photo](images/PermaProtoHolders.jpg)
+
+### Holder: Half Size Perma Proto (Thingiverse)
+![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
+
 ### Holder: Half Size Perma Proto (Insets)
 **File: HalfSizeHolderforDESPrinting.f3d**
 ![Half Size Perma Proto](images/PPHalfSizeHolderInsets.png)
@@ -33,8 +39,6 @@
 ### Holder: Half Size Perma Proto (Nut Pockets)
 ![Half Size Perma Proto](images/PPHalfSizeHolderNutPockets.png)
 
-### Holder: Half Size Perma Proto (Thingiverse)
-![Half Size Perma Proto](images/PPHalfSizeHolderInsetsThingiverse.png)
 
 ## Bargraph Holders
 **Files**
