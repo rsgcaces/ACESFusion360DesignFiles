@@ -19,7 +19,7 @@
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
 ### Holder: Full Size Perma Proto (Insets)
-**File: FullSizeHolder.f3d**
+**File: FullSizeHolder v7.f3d**
 ![Full Size Holder](images/PPFullSizeHolder.png)
 
 ### Case: Half Size Perma Proto Mint Tin
