@@ -65,3 +65,7 @@
 ## Grade 10 Counting Circuit Case
 **File: ICD2OCountingCircuitCase.f3d**
 ![Counting Circuit Case](images/CountingCircuitCase.png)
+
+## Busboard Prototype Systems (ST1) Stripboard Case
+**File: ST1StripboardCasefromACESUniversal.f3d**
+![ST1 Stripboard Case](images/StripboardCase.png)
