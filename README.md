@@ -18,6 +18,11 @@
 **File: HalfSizefromACESUniversal.f3d**
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
+### Display: Half Size Perma Proto
+**File: HalfSizeDisplayV4.f3d**
+![Half Size Perma Proto Display](images/HalfSizeDisplay.png)
+
+
 ### Holder: Full Size Perma Proto (Insets)
 **File: FullSizeHolder v7.f3d**
 ![Full Size Holder](images/PPFullSizeHolder.png)
