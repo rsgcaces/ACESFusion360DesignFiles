@@ -18,10 +18,13 @@
 **File: HalfSizefromACESUniversal.f3d**
 ![Half Size Perma Proto](images/PPHalfSizeCase.png)
 
-### Display: Half Size Perma Proto
+### Display: Half Size Perma Proto (ATtiny84 Clock)
 **File: HalfSizeDisplayV4.f3d**
 ![Half Size Perma Proto Display](images/HalfSizeDisplay.png)
 
+### Display: Quarter Size Perma Proto (ATtiny85 Clock)
+**File: QuarterSizeDisplayV4.f3d**
+![Quarter Size Perma Proto Display](images/QuarterSizeDisplay.png)
 
 ### Holder: Full Size Perma Proto (Insets)
 **File: FullSizeHolder v7.f3d**
